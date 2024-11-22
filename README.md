@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PAWARAKALPESH
-- 👀 I’m interested in Android App Development
+- 👀 I’m interested in java full-stack
 - 🌱 I’m currently learning Computer Engineering 
-- 💞️ I’m looking to collaborate on Android Developers
+- 💞️ I’m looking to collaborate on java full-stack developers
 - 📫 How to reach me you can just send me cold mails
 
 <!---
